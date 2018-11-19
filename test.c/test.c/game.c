@@ -71,7 +71,7 @@ void FindMine(int row, int col, char board[ROWS][COLS], char board1[ROWS][COLS])
 			if (board[x][y] == '1')
 			{
 				board1[x][y] = '1';
-				printf("很遗憾，您踩雷了\n")\;
+				printf("很遗憾，您踩雷了\n");
 				Display(ROW, COL, board);
 				break;
 			}

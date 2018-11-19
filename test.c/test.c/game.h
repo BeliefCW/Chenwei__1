@@ -10,7 +10,7 @@
 #define COL 9
 #define ROWS ROW+2
 #define COLS COL+2
-#define easy_count 10s
+#define easy_count 10
 
 
 
